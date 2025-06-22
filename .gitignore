@@ -1,0 +1,22 @@
+# Sensitive email data
+registered_emails.txt
+
+# One-time verification codes
+codes/
+
+# Local debug logs
+cron_debug.txt
+/tmp/gh-timeline.log
+
+# System or OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# Editor/IDE config folders
+.vscode/
+.idea/
+
+# Environment or secret config files
+.env
